@@ -54,4 +54,19 @@ My research and computational tools focus on connecting biological theory with d
 
 ---
 
+### 🧾 Selected Publications
+
+- **Drabeck, D.H.**, Perry, B.W., et al. *Decoding hibernation through multi-omic integration in bears.*  
+  Demonstrates large-scale data visualization and end-to-end ETL pipeline design linking transcriptomic, metabolomic, and physiological data to uncover molecular mechanisms of metabolic suppression.
+
+- **Drabeck, D.H.**, et al. (2024) *Gene loss and relaxed selection of PLAAT1 in vertebrates adapted to low-light environments.* *Proc. R. Soc. B.*  
+  Integrates diverse genomic and ecological datasets to reveal functional gene loss, combining advanced data visualization and accessible narrative to bridge computational and biological audiences.
+
+- **Drabeck, D.H.**, Arcila, D., et al. *Ecological interactions and genomic innovation fueled the evolution of ray-finned fish endothermy.*  
+  Contributed key analytical pipelines and visualization tools supporting broad interdisciplinary collaboration across evolutionary physiology, genomics, and data science.
+
+- **Drabeck, D.H.**, Holt, J., & McGaugh, S.E. (2022) *Widespread convergent evolution of α-neurotoxin resistance in African mammals.* *Biology Letters, 18(11), 20220361.*  
+  Integrated genomic, structural, and functional datasets to reveal convergent molecular evolution—illustrating how cross-disciplinary data synthesis can generate novel biological insight.
+
+
 📄 *All repositories are maintained as open, documented, and reproducible resources for evolutionary genomics and data science education.*
