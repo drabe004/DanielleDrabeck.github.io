@@ -1,8 +1,11 @@
 webiste README.md
-# Hi, I’m Dr. Danielle H. Drabeck
+<h1 align="center">Danielle H. Drabeck, Ph.D.</h1>
+<h3 align="center">Evolutionary Biologist | Computational Genomicist | Data Scientist</h3>
 
-I’m a **comparative genomics and evolutionary data scientist** interested in how we can use large-scale data to understand biological adaptation, convergence, and resilience.  
+<p align="center">
+I’m a <strong>comparative genomics and evolutionary data scientist</strong> interested in how we can use large-scale data to understand biological adaptation, convergence, and resilience.  
 My research and computational tools focus on connecting biological theory with data-driven modeling — turning complex genomic data into testable evolutionary hypotheses.
+</p>
 
 ---
 
