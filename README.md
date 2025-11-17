@@ -15,10 +15,11 @@ My research and computational tools focus on connecting biological theory with d
 
 ---
 
-### 🔬 Featured Pipelines
+###  Featured Pipelines, Programs, and Repositories
 
 | Pipeline | Purpose | Technologies |
 |-----------|----------|---------------|
+| [**OrthocallerV3.0**](https://github.com/drabe004/Orthocaller) | Custom program that unifies orthogroup data from GeneRax and Orthofinder outputs to automate orthology classification, integrate phylogenetic inference, and generate biologically interpretable ortholog maps at scale. | Python, ete3, pandas, GeneRax, Orthofinder |
 | [**CavefishGenomes_Pipeline**](https://github.com/drabe004/CavefishGenomes_Pipeline) | Automates genome assembly processing, gene prediction, and annotation for 10×/long-read data. | Funannotate, BUSCO, RepeatMasker, OrthoFinder |
 | [**Orthofinder Cleanup Pipeline**](https://github.com/drabe004/Orthofinder_Cleanup) | Cleans and filters Orthofinder outputs to identify high-confidence orthologs for evolutionary analysis. | Python, BLAST, Ensembl API, IQ-TREE |
 | [**BEAR Pipeline**](https://github.com/drabe004/BEAR-Pipeline_NCBI-data-to-Hyphy) | Integrates NCBI and Ensembl data into high-throughput selection analysis using HyPhy. | Python, HyPhy, web-scraping automation |
