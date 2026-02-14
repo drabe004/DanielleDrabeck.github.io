@@ -50,7 +50,7 @@ My research and computational tools focus on connecting biological theory with d
 
 - Website: [danielledrabeck.com](https://www.danielledrabeck.com)  
 - GitHub: [github.com/drabe004](https://github.com/drabe004)  
-- Google Scholar: [Dr. Danielle Drabeck](https://scholar.google.com/citations?user=D9J_WmUAAAAJ&hl=en)
+- Google Scholar: [Dr. Danielle Drabeck]((https://scholar.google.com/citations?hl=en&user=MI6BqgYAAAAJ))
 
 ---
 
